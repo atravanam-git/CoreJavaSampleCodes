@@ -1,6 +1,6 @@
 /* Anonymous Inner Class does not have a NAME
  * Anonymous class can EXTEND a parent class or IMPLEMENT an Interface */
-package java8Features;
+package com.Java8.Features;
 import java.lang.Thread;
 public class AnonymousInnerCls {
 

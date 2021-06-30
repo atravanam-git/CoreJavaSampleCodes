@@ -5,7 +5,7 @@
  * Main() Method and 
  * Anonymous inner class 
 */
-package java8Features;
+package com.Java8.Features;
 
 public interface InterfaceDemo {
 		
