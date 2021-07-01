@@ -5,7 +5,7 @@
 2. ArrayList should NOT be used if our frequent Operation is 
    # either Insertion and Removal */
 
-package com.java.Collections;
+package com.java.CollectionsCode;
 import java.util.ArrayList;
 
 public class forEachLoop_Demo {

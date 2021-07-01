@@ -1,7 +1,7 @@
 /*Note:
  * In this code we are initializing Students Object ArrayList
  * Collections.sort() method invokes compareTo() method*/
-package com.java.Collections;
+package com.java.CollectionsCode;
 
 import java.util.*;
 
