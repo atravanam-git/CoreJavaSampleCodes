@@ -4,7 +4,7 @@
  * Comparable is used for Multiple Sorting Sequence in a Collection object 
  * Collections.sort(List, Comparator) method will invoke compares() method
 */
-package com.java.CollectionsCode;
+package com.java_Collections;
 import java.util.Comparator;
 public class StudentsComparator implements Comparator<StudentsComparator>
 {

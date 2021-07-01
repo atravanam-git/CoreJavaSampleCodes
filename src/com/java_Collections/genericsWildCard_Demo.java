@@ -1,4 +1,4 @@
-package com.java.CollectionsCode;
+package com.java_Collections;
 import java.util.*;
 public class genericsWildCard_Demo {
 	public static void main(String[] args) {

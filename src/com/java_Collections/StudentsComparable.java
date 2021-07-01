@@ -4,7 +4,7 @@
  * Comparable is used for Single Sorting Sequence in a Collection object
  * Collections.sort(List) method will invoke compareTo() method
  */
-package com.java.CollectionsCode;
+package com.java_Collections;
 import java.lang.Comparable;
 public class StudentsComparable  implements Comparable<StudentsComparable>
 {

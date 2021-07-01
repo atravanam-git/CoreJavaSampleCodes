@@ -10,7 +10,7 @@
 8. sort() method
 9. size() method  
 */
-package com.java.CollectionsCode;
+package com.java_Collections;
 import java.util.ArrayList;
 import java.util.Collections;
 public class diff_methods_ArrayList {

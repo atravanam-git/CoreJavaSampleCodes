@@ -4,7 +4,7 @@
 	  3. using Collections.nCopies(count, object) method
 	  4. using Collections.addAll() method 
 */
-package com.java.CollectionsCode;
+package com.java_Collections;
 import java.util.ArrayList;
 
 public class add_method_ArrayList {

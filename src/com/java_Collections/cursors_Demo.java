@@ -4,7 +4,7 @@ There are 3 types of Cursors in Java
 2. Iterator - Forward Directional universal cursor
 3. ListIterator( bi-directional - applicable for List Collection object  
 */
-package com.java.CollectionsCode;
+package com.java_Collections;
 import java.util.*;
 public class cursors_Demo {
 	static	int var,var1,var2;

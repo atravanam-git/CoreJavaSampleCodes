@@ -1,4 +1,4 @@
-package com.java.CollectionsCode;
+package com.java_Collections;
 
 public class Employee {
 	String name;

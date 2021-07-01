@@ -2,7 +2,7 @@
  * ArrayList is used for overcoming the problems of fixed length of normal
  * arrays // ArrayList can store generic, non-generic like string, integer and
  * Class instance object variables */	
-package com.java.CollectionsCode;
+package com.java_Collections;
 import java.util.ArrayList;
 import java.util.Iterator;
 public class basics_of_ArrayLists {
