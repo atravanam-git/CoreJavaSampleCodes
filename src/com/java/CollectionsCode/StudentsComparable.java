@@ -2,10 +2,12 @@
  * Comparable is an Interface and part of java.lang package
  * Comparable implements compareTo(Object obj) method 
  * Comparable is used for Single Sorting Sequence in a Collection object
- * Collections.sort(List) method will invoke compareTo() method */
+ * Collections.sort(List) method will invoke compareTo() method
+ */
 package com.java.CollectionsCode;
 import java.lang.Comparable;
-public class StudentsComparable {
+public class StudentsComparable  implements Comparable<StudentsComparable>
+{
 	String Name;
 	int age;
 	
